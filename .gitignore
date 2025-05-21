@@ -1,0 +1,27 @@
+unnati/
+.venv/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+*.log
+
+
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+*.log.*.*.*.*.*.*
+*.log.*.*.*.*.*.*.*
+
+# Ignore keras tuner directory
+kt_dir/
+
+# Ignore all HDF5 model files
+*.h5

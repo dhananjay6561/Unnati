@@ -1,0 +1,7 @@
+tqdm
+requests
+zipfile
+pandas
+numpy
+hashlib
+glob
